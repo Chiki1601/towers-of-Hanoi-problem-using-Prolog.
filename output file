@@ -1,0 +1,20 @@
+output
+
+
+?- move(4,source,target,auxiliary).
+Move top disk from source to auxiliary
+Move top disk from source to target
+Move top disk from auxiliary to target
+Move top disk from source to auxiliary
+Move top disk from target to source
+Move top disk from target to auxiliary
+Move top disk from source to auxiliary
+Move top disk from source to target
+Move top disk from auxiliary to target
+Move top disk from auxiliary to source
+Move top disk from target to source
+Move top disk from auxiliary to target
+Move top disk from source to auxiliary
+Move top disk from source to target
+Move top disk from auxiliary to target
+true ?
